@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/toursProject/static/css/main.0fafdcea.chunk.css",
-    "main.js": "/toursProject/static/js/main.dfa2ca89.chunk.js",
-    "main.js.map": "/toursProject/static/js/main.dfa2ca89.chunk.js.map",
-    "runtime-main.js": "/toursProject/static/js/runtime-main.e31aad33.js",
-    "runtime-main.js.map": "/toursProject/static/js/runtime-main.e31aad33.js.map",
-    "static/js/2.d8a12258.chunk.js": "/toursProject/static/js/2.d8a12258.chunk.js",
-    "static/js/2.d8a12258.chunk.js.map": "/toursProject/static/js/2.d8a12258.chunk.js.map",
-    "index.html": "/toursProject/index.html",
-    "static/css/main.0fafdcea.chunk.css.map": "/toursProject/static/css/main.0fafdcea.chunk.css.map",
-    "static/js/2.d8a12258.chunk.js.LICENSE.txt": "/toursProject/static/js/2.d8a12258.chunk.js.LICENSE.txt",
-    "static/media/logo.1f6e8620.svg": "/toursProject/static/media/logo.1f6e8620.svg"
+    "main.css": "/ToursApp/static/css/main.0fafdcea.chunk.css",
+    "main.js": "/ToursApp/static/js/main.dfa2ca89.chunk.js",
+    "main.js.map": "/ToursApp/static/js/main.dfa2ca89.chunk.js.map",
+    "runtime-main.js": "/ToursApp/static/js/runtime-main.ced9a122.js",
+    "runtime-main.js.map": "/ToursApp/static/js/runtime-main.ced9a122.js.map",
+    "static/js/2.d8a12258.chunk.js": "/ToursApp/static/js/2.d8a12258.chunk.js",
+    "static/js/2.d8a12258.chunk.js.map": "/ToursApp/static/js/2.d8a12258.chunk.js.map",
+    "index.html": "/ToursApp/index.html",
+    "static/css/main.0fafdcea.chunk.css.map": "/ToursApp/static/css/main.0fafdcea.chunk.css.map",
+    "static/js/2.d8a12258.chunk.js.LICENSE.txt": "/ToursApp/static/js/2.d8a12258.chunk.js.LICENSE.txt",
+    "static/media/logo.1f6e8620.svg": "/ToursApp/static/media/logo.1f6e8620.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e31aad33.js",
+    "static/js/runtime-main.ced9a122.js",
     "static/js/2.d8a12258.chunk.js",
     "static/css/main.0fafdcea.chunk.css",
     "static/js/main.dfa2ca89.chunk.js"
